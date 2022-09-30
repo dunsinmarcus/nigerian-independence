@@ -53,3 +53,7 @@ body {
     font-size: 130px;
   }
 }
+
+h2, p, ol, table {
+  margin: 0 5%;
+}

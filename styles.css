@@ -55,7 +55,11 @@ body {
   }
 }
 
-h2, p, ol, table {
+p, ol, table {
   font-size: 50px;
+  margin: 0 5%;
+}
+
+h2 {
   margin: 0 5%;
 }

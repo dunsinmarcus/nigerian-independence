@@ -61,5 +61,6 @@ p, ol, table {
 }
 
 h2 {
-  margin: 0 5%;
+  margin-left: 5%;
+  margin-right: 5%;
 }

@@ -45,3 +45,12 @@ body {
     font-size: 120px;
   }
 }
+
+@media screen and (min-width: 1201px) {
+  #flag {
+    height: 100vh;
+    border-left: 280px;
+    border-right: 280px;
+    font-size: 130px;
+  }
+}

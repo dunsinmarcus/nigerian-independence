@@ -56,6 +56,6 @@ body {
 }
 
 h2, p, ol, table {
-  50px
+  font-size: 50px;
   margin: 0 5%;
 }
